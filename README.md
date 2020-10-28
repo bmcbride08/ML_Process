@@ -1,1 +1,3 @@
-# ML_Process
+The files in the repository are the general frameworks and code samples that have been established for decisions that need to be taken with regards to developing a machine learning algorithm on a dataset. The files have prefixes of "General", "Shallow" and "Deep" files, depending on whether they should be used for all types of ML algos, just for shallow ML algos or just for deep ML algos (i.e. neural networks).
+The PowerPoint files should be referenced when choosing a specific parameter for your project (e.g. scoring metric, loss function).
+The code samples are there to help as a copy-paste library of code for different steps in the project, but they can be used as much or as little as you wish.
